@@ -1,0 +1,150 @@
+[submodule "woah"]
+	path = woah
+	url = https://github.com/pabueco/woah
+[submodule "calcutext"]
+	path = calcutext
+	url = https://github.com/jaredreich/calcutext
+[submodule "notepad-calculator"]
+	path = notepad-calculator
+	url = https://github.com/SteveRidout/notepad-calculator
+[submodule "clcalc"]
+	path = clcalc
+	url = https://github.com/ovk/clcalc
+[submodule "lookscanned.io"]
+	path = lookscanned.io
+	url = https://github.com/rwv/lookscanned.io
+[submodule "guitar-editor"]
+	path = guitar-editor
+	url = https://github.com/Haixiang6123/guitar-editor
+[submodule "tab-editor"]
+	path = tab-editor
+	url = https://github.com/calesce/tab-editor
+[submodule "cartographist"]
+	path = cartographist
+	url = https://github.com/szymonkaliski/cartographist
+[submodule "AnotherPomodoro"]
+	path = AnotherPomodoro
+	url = https://github.com/Hanziness/AnotherPomodoro
+[submodule "kalker"]
+	path = kalker
+	url = https://github.com/PaddiM8/kalker
+[submodule "notecalc3"]
+	path = notecalc3
+	url = https://github.com/bbodi/notecalc3
+[submodule "tikzcd-editor"]
+	path = tikzcd-editor
+	url = https://github.com/yishn/tikzcd-editor
+[submodule "lrc_editor"]
+	path = lrc_editor
+	url = https://github.com/yiyizym/lrc_editor
+[submodule "regexr"]
+	path = regexr
+	url = https://github.com/gskinner/regexr
+[submodule "excalidraw"]
+	path = excalidraw
+	url = https://github.com/excalidraw/excalidraw
+[submodule "mermaid-live-editor"]
+	path = mermaid-live-editor
+	url = https://github.com/mermaid-js/mermaid-live-editor
+[submodule "flowchart-fun"]
+	path = flowchart-fun
+	url = https://github.com/tone-row/flowchart-fun
+[submodule "figmex"]
+	path = figmex
+	url = https://github.com/nbw/figmex
+[submodule "streamlit-image-crop"]
+	path = streamlit-image-crop
+	url = https://github.com/mitsuse/streamlit-image-crop
+[submodule "ordered-dither-maker"]
+	path = ordered-dither-maker
+	url = https://github.com/seleb/ordered-dither-maker
+[submodule "image-editor"]
+	path = image-editor
+	url = https://github.com/andrepv/image-editor
+[submodule "Drawflow"]
+	path = Drawflow
+	url = https://github.com/jerosoler/Drawflow
+[submodule "sketch-to-lineart"]
+	path = sketch-to-lineart
+	url = https://github.com/seleb/sketch-to-lineart
+[submodule "hot-chain-svg"]
+	path = hot-chain-svg
+	url = https://github.com/w1nt3r-eth/hot-chain-svg
+[submodule "js-image-carver"]
+	path = js-image-carver
+	url = https://github.com/trekhleb/js-image-carver
+[submodule "svg2png-wasm"]
+	path = svg2png-wasm
+	url = https://github.com/ssssota/svg2png-wasm
+[submodule "visionmagic"]
+	path = visionmagic
+	url = https://github.com/visioncortex/visionmagic
+[submodule "vtracer"]
+	path = vtracer
+	url = https://github.com/visioncortex/vtracer/
+[submodule "svg-path-editor"]
+	path = svg-path-editor
+	url = https://github.com/Yqnn/svg-path-editor
+[submodule "svgomg"]
+	path = svgomg
+	url = https://github.com/jakearchibald/svgomg
+[submodule "favycon"]
+	path = favycon
+	url = https://github.com/ruisaraiva19/favycon
+[submodule "thinreports-editor"]
+	path = thinreports-editor
+	url = https://github.com/thinreports/thinreports-editor
+[submodule "svgedit"]
+	path = svgedit
+	url = https://github.com/SVG-Edit/svgedit
+[submodule "pdf-margins"]
+	path = pdf-margins
+	url = https://github.com/ToyVo/pdf-margins
+[submodule "pdf-duplex-scan"]
+	path = pdf-duplex-scan
+	url = https://github.com/clemensheithecker/pdf-duplex-scan
+[submodule "localpdfmerger"]
+	path = localpdfmerger
+	url = https://github.com/julianfbeck/localpdfmerger
+[submodule "doctr"]
+	path = doctr
+	url = https://github.com/mindee/doctr
+[submodule "react-epub-reader"]
+	path = react-epub-reader
+	url = https://github.com/alex1504/react-epub-reader
+[submodule "MangaRepack"]
+	path = MangaRepack
+	url = https://github.com/Aeroblast/MangaRepack
+[submodule "epub-manga-creator"]
+	path = epub-manga-creator
+	url = https://github.com/wing-kai/epub-manga-creator
+[submodule "cheatsheet-generator"]
+	path = cheatsheet-generator
+	url = https://github.com/nathanlesage/cheatsheet-generator
+[submodule "excalith-start-page"]
+	path = excalith-start-page
+	url = https://github.com/scillidan/excalith-start-page
+[submodule "excalibur"]
+	path = excalibur
+	url = https://github.com/camelot-dev/excalibur
+[submodule "markdownlint"]
+	path = markdownlint
+	url = https://github.com/DavidAnson/markdownlint
+[submodule "kdtype"]
+	path = kdtype
+	url = https://github.com/steveruizok/kdtype
+[submodule "albumapp-django"]
+	path = albumapp-django
+	url = https://github.com/jobsta/albumapp-django
+[submodule "reportbro-designer"]
+	path = reportbro-designer
+	url = https://github.com/jobsta/reportbro-designer
+[submodule "pdfme-playground"]
+	path = pdfme-playground
+	url = https://github.com/pdfme/pdfme-playground/
+[submodule "my_rime"]
+	path = my_rime
+	url = https://github.com/LibreService/my_rime
+[submodule "qr-designer"]
+	path = qr-designer
+	url = https://github.com/kochrt/qr-designer
