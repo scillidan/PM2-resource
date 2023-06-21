@@ -142,9 +142,6 @@
 [submodule "qr-designer"]
 	path = qr-designer
 	url = https://github.com/kochrt/qr-designer
-[submodule "thinreports-basic-editor"]
-	path = thinreports-basic-editor
-	url = https://github.com/thinreports/thinreports-basic-editor
 [submodule "svg2png-wasm"]
 	path = svg2png-wasm
 	url = https://github.com/ssssota/svg2png-wasm
