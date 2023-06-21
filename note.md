@@ -11,7 +11,7 @@ sts|repo|gp|install|start|preview
 |[lookscanned](https://github.com/rwv/lookscanned.io)|pdf|`npm i`<br>`npm run build:all`|`serve -s dist`|![](_media/lookscanned.png)
 |[pdf-margins](https://github.com/ToyVo/pdf-margins)|pdf|`npm i`<br>`npm run build`|`serve -s build`|![](_media/pdf-margins.png)
 |[pdfme-playground](https://github.com/pdfme/pdfme-playground)|pdf|`npm install`|`npm run start`|![](_media/pdfme-playground.png)
-|[thinreports-editor](https://github.com/thinreports/thinreports-editor)|pdf|`npm run start`|`serve -s app`|![](_media/thinreports-editor.png)
+|[thinreports-basic-editor](https://github.com/thinreports/thinreports-basic-editor)|pdf|`pyenv local 2.7``npm install`|`npm run start`<br>`serve -s app`|![](_media/thinreports-basic-editor.png)
 |[albumapp-django](https://github.com/jobsta/albumapp-django)|pdf|`python3 -m venv env`<br>`env\Scripts\activate.bat`<br>`pip install django reportbro-lib`<br>`python manage.py makemigrations albums`<br>`python manage.py migrate`<br>`python manage.py compilemessages`|`python manage.py runserver`<br>`open http://127.0.0.1:8000/albums`|![](_media/albumapp-django.png)
 |[reportbro-designer](https://github.com/jobsta/reportbro-designer)|pdf|`npm install`<br>`npm run build`|`./demos/*.html`|![](_media/reportbro-designer.png)
 |[favycon](https://github.com/ruisaraiva19/favycon)|ico|`yarn install`|`yarn dev`|![](_media/favycon.png)

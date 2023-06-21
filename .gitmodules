@@ -70,9 +70,6 @@
 [submodule "js-image-carver"]
 	path = js-image-carver
 	url = https://github.com/trekhleb/js-image-carver
-[submodule "svg2png-wasm"]
-	path = svg2png-wasm
-	url = https://github.com/ssssota/svg2png-wasm
 [submodule "visionmagic"]
 	path = visionmagic
 	url = https://github.com/visioncortex/visionmagic
@@ -148,3 +145,6 @@
 [submodule "thinreports-basic-editor"]
 	path = thinreports-basic-editor
 	url = https://github.com/thinreports/thinreports-basic-editor
+[submodule "svg2png-wasm"]
+	path = svg2png-wasm
+	url = https://github.com/ssssota/svg2png-wasm
