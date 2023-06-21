@@ -11,7 +11,7 @@ sts|repo|gp|install|start|preview
 |[lookscanned](https://github.com/rwv/lookscanned.io)|pdf|`npm i`<br>`npm run build:all`|`serve -s dist`|![](_media/lookscanned.png)
 |[pdf-margins](https://github.com/ToyVo/pdf-margins)|pdf|`npm i`<br>`npm run build`|`serve -s build`|![](_media/pdf-margins.png)
 |[pdfme-playground](https://github.com/pdfme/pdfme-playground)|pdf|`npm install`|`npm run start`|![](_media/pdfme-playground.png)
-|[thinreports-basic-editor](https://github.com/thinreports/thinreports-basic-editor)|pdf|`pyenv local 2.7``npm install`|`npm run start`<br>`serve -s app`|![](_media/thinreports-basic-editor.png)
+|[thinreports-basic-editor](https://github.com/thinreports/thinreports-basic-editor)|pdf||`./app/index.html`|![](_media/thinreports-basic-editor.png)
 |[albumapp-django](https://github.com/jobsta/albumapp-django)|pdf|`python3 -m venv env`<br>`env\Scripts\activate.bat`<br>`pip install django reportbro-lib`<br>`python manage.py makemigrations albums`<br>`python manage.py migrate`<br>`python manage.py compilemessages`|`python manage.py runserver`<br>`open http://127.0.0.1:8000/albums`|![](_media/albumapp-django.png)
 |[reportbro-designer](https://github.com/jobsta/reportbro-designer)|pdf|`npm install`<br>`npm run build`|`./demos/*.html`|![](_media/reportbro-designer.png)
 |[favycon](https://github.com/ruisaraiva19/favycon)|ico|`yarn install`|`yarn dev`|![](_media/favycon.png)
@@ -31,7 +31,7 @@ sts|repo|gp|install|start|preview
 |[figmex](https://github.com/nbw/figmex)|diag|`scoop install erlang elixir`<br>add `.../elixir/bin` to PATH<br>`mix deps.get`<br>`mix setup``mix phx.server`|![]()tbd
 |[asciiflow](https://github.com/lewish/asciiflow)|diag|`scoop install bazel bazel-buildtools`<br>`choco install bazelisk`<br>`yarn global add @bazel/bazelisk @bazel/ibazel` or `pnpm add -g @bazel\bazelisk` <br>`yarn add @bazel/typescript`<br>`yarn`<br>`bazel build //...`|`ibazel run client:devserver`|![]()tbd
 |[drawflow](https://github.com/jerosoler/Drawflow)|diag|`npm run build`|`./docs/index.html`|![](_media/drawflow.png)
-|[flowchart-fun](https://github.com/tone-row/flowchart-fun)<br>or see [fork](https://github.com/piaverous/flowchart-fun) |diag|`yarn`|`yarn start`<br>or open `https://vercel.com/dashboard`|![](_media/flowchart-fun.png)
+|[flowchart-fun](https://github.com/tone-row/flowchart-fun)<br>or see [fork](https://github.com/piaverous/flowchart-fun) |diag|`yarn`|`yarn start`<br>or open `https://vercel.com/dashboard` then import repo|![](_media/flowchart-fun.png)
 |[mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor)|diag|install [mermaid](https://mermaid-js.github.io/mermaid)<br>`yarn install`|`yarn dev -- --open`<br>or `yarn build`<br>`serve -s docs -l 3998`|![](_media/mermaid-live-editor.png)
 |[excalidraw](https://github.com/excalidraw/excalidraw)|diag|`yarn`|`yarn start`|![](_media/excalidraw.png)
 |[camelot](https://github.com/camelot-dev/camelot)|pdf|`pip install camelot`<br>`pip install transformers datasets`||![]()tbd
