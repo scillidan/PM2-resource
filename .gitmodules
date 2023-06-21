@@ -148,3 +148,6 @@
 [submodule "svg2png-wasm"]
 	path = svg2png-wasm
 	url = https://github.com/ssssota/svg2png-wasm
+[submodule "flowchart-fun"]
+	path = flowchart-fun
+	url = https://github.com/tone-row/flowchart-fun
