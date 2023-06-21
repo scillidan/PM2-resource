@@ -5,8 +5,8 @@ I did installation and local running tests on PC. See [note.md](note.md) to get 
 
 ## Todo
 
-- [] used tools.
-- [] the way to subscribe to bug.
-- [] the way to subscribe to supdate.
-- [] why is the port registered sometimes ?
-- [] …🐌
+- [ ] used tools.
+- [ ] the way to subscribe to bug.
+- [ ] the way to subscribe to supdate.
+- [ ] why is the port registered sometimes ?
+- [ ] …🐌
