@@ -46,9 +46,6 @@
 [submodule "mermaid-live-editor"]
 	path = mermaid-live-editor
 	url = https://github.com/mermaid-js/mermaid-live-editor
-[submodule "flowchart-fun"]
-	path = flowchart-fun
-	url = https://github.com/tone-row/flowchart-fun
 [submodule "figmex"]
 	path = figmex
 	url = https://github.com/nbw/figmex
@@ -148,3 +145,6 @@
 [submodule "qr-designer"]
 	path = qr-designer
 	url = https://github.com/kochrt/qr-designer
+[submodule "thinreports-basic-editor"]
+	path = thinreports-basic-editor
+	url = https://github.com/thinreports/thinreports-basic-editor
