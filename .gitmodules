@@ -148,3 +148,6 @@
 [submodule "flowchart-fun"]
 	path = flowchart-fun
 	url = https://github.com/tone-row/flowchart-fun
+[submodule "thinreports-basic-editor"]
+	path = thinreports-basic-editor
+	url = https://github.com/scillidan/thinreports-basic-editor
