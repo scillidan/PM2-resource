@@ -151,3 +151,9 @@
 [submodule "thinreports-basic-editor"]
 	path = thinreports-basic-editor
 	url = https://github.com/scillidan/thinreports-basic-editor
+[submodule "reference"]
+	path = reference
+	url = https://github.com/Fechin/reference
+[submodule "programmingfonts"]
+	path = programmingfonts
+	url = https://github.com/braver/programmingfonts

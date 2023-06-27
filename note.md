@@ -35,8 +35,10 @@ sts|repo|gp|install|start|preview
 |[mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor)|diag|install [mermaid](https://mermaid-js.github.io/mermaid)<br>`yarn install`|`yarn dev -- --open`<br>or `yarn build`<br>`serve -s docs -l 3998`|![](_media/mermaid-live-editor.png)
 |[excalidraw](https://github.com/excalidraw/excalidraw)|diag|`yarn`|`yarn start`|![](_media/excalidraw.png)
 |[camelot](https://github.com/camelot-dev/camelot)|pdf|`pip install camelot`<br>`pip install transformers datasets`||![]()tbd
+|[programmingfonts](https://github.com/braver/programmingfonts)|font|`npm i`<br>`npm run test`|`serve -s .`|![](_media/programmingfonts.png)
 |[my_rime](https://github.com/LibreService/my_rime)|ime|download [artifact](https://github.com/LibreService/my_rime/releases/download/latest/my-rime-dist.zip)|`serve -s my-rime-dist`|![](_media/my_rime.png)
 |[kdtype](https://github.com/steveruizok/kdtype)|ime|`yarn`<br>`yarn build`|serve -s dist`|![](_media/kdtype.png)
+|[reference](https://github.com/Fechin/reference)|kbd|`npm i`|`npm run dev`|![](_media/reference.png)
 |[cheatsheet-generator](https://github.com/nathanlesage/cheatsheet-generator)|kbd|`npm i`<br>`cp examples/*.config.yml. config.yml`<br>`npm run build`<br>|`serve -s dist`<br>or edit `./assets/template.htm`, `./layouts/layout_map.yml`|![](_media/cheatsheet-generator.png)
 |[markdownlint](https://github.com/DavidAnson/markdownlint)|s|`npm i`<br>`npm run build-demo`|./demo/default.htm|![](_media/markdownlint.png)tbd
 |[regexr](https://github.com/gskinner/regexr)|e|`npm i`|edit `./gulpfile.babel.js` line 62, `port: 3001`<br>`gulp`|![](_media/regexr.png)
